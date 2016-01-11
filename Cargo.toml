@@ -3,7 +3,7 @@ name = "af_unix"
 version = "0.1.0"
 authors = ["Andy Grover <agrover@redhat.com>"]
 description = "Use AF_UNIX local sockets"
-license = "MIT"
+license = "MIT OR Apache-2.0"
 repository = "https://github.com/agrover/af_unix-rs"
 
 [dependencies]
